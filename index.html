@@ -8,7 +8,7 @@ const SIZE = hash[1] || .9;
 const OY = 1.6;
 
 const light = eg.cr("a-entity");
-light.setAttribute("light", `type: directional; color: #fff; intensity: 500`);
+light.setAttribute("light", `type: directional; color: #fff; intensity: 10`);
 light.setAttribute("position", { x: 0, y: 0, z: 1 });
 eg.scene.appendChild(light);
 
@@ -35,4 +35,3 @@ setInterval(() => {
   }
 }, 1000 / 60);
 </script>
-
