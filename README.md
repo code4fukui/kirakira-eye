@@ -1,4 +1,7 @@
 # kirakira-eye
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A simple WebGL scene with floating spheres.
 
 ## Demo
