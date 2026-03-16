@@ -21,4 +21,4 @@ You can customize the number of spheres (N) and their size (SIZE) by modifying t
 This will create 12 spheres with a size of 0.7.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+MIT License — see [LICENSE](LICENSE).
